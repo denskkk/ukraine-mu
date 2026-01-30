@@ -97,6 +97,12 @@ h1,h2,h3,p,a{ overflow-wrap: anywhere; }
 }
 .brand-title{ font-weight: 900; letter-spacing: .2px; font-size: 16px; }
 .brand-sub{ font-size: 12px; color: var(--muted2); margin-top: 1px; }
+.brand-tag{
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 2px;
+  letter-spacing: .2px;
+}
 
 .nav{ display: flex; align-items: center; gap: 10px; position: relative; }
 .nav-links{
